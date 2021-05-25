@@ -1,8 +1,4 @@
 <?php
-/* The following code generates the token for JioTV.
-Use it only for personal use. Mail to the address below for support, if necessary.
-Contributed by: allscripts@protonmail.com
-*/
 $jctBase = "cutibeau2ic";
 $ssoToken = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmlxdWUiOiI0NWU1OTMzMC1mZmQ4LTRjNmMtOTk4NS1mZTg5ZjIyMjMyZWIiLCJ1c2VyVHlwZSI6IlJJTHBlcnNvbiIsImF1dGhMZXZlbCI6IjQwIiwiZGV2aWNlSWQiOiJjNDMyMTNhOGMzYjljNTAxYzI4MDY1NjRiYzNkNjlhNDkwY2IwZDdiOTM0MzI4MDQ5Mzk1MTU0Mzk3NmViOTM2ZDcxNmZmZTMwYmNjM2UxOWU1MTMzZjNiNTg1MjNiNGY3OGU0YWMxYjFhYzc4MTVjNTNjMTE5MDBkYTM0ZTEwZCIsImp0aSI6ImI3MDNhOTY5LTJkYWYtNDUyMy05NWUzLWI1NTFjNDhjMmVhNyIsImlhdCI6MTYyMDM5NjE4NX0.VQt-ZNhqZBl3x-DzvLP08KNCwh8VA2Z3x1fyvpwn9hE";
 function tokformat($str)
