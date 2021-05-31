@@ -32,8 +32,6 @@ if(!file_exists($cache)){
 $context = stream_context_create($opts);
 $haystack = file_get_contents("https://tv.media.jio.com/streams_live/"  . $_REQUEST["key"] . $p,false,$context);
 
-//file_put_contents($cache, $haystack);
-
 
 }
 else
